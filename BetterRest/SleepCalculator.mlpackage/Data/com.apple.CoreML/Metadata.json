@@ -1,0 +1,15 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "Machine Learning Algorythm for calculating bedtime, by amount of coffee and sleeping hours",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.coreml.model.preview.type" : "tabularRegressor",
+    "com.apple.createml.training.started" : "2025-10-22T07:35:21Z",
+    "com.apple.createml.version" : "26.0.1",
+    "com.apple.createml.training.finished" : "2025-10-22T07:35:21Z",
+    "com.apple.createml.app.tag" : "175.6",
+    "com.apple.createml.model.created" : "2025-10-22T07:35:21Z",
+    "com.apple.createml.app.version" : "6.2"
+  },
+  "MLModelAuthorKey" : "Jonas Mahlburg",
+  "MLModelLicenseKey" : "--"
+}
